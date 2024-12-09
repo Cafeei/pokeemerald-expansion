@@ -9732,7 +9732,7 @@ static const union AnimCmd sAnim_Duraludon_1[] =
 
     ANIMCMD_FRAME(0, 20),
     ANIMCMD_FRAME(1, 60),
-    ANIMCMD_FRAME(0, 10),
+    ANIMCMD_FRAME(0, 2),
     ANIMCMD_END,
 };
 
