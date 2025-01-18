@@ -24904,7 +24904,7 @@ const u32 gObjectEventPic_Substitute[] = INCBIN_COMP("graphics/pokemon/question_
 #endif //P_FAMILY_PAWMI
 
 #if P_FAMILY_TANDEMAUS
-    const u32 gMonFrontPic_Tandemaus[] = INCBIN_U32("graphics/pokemon/tandemaus/front.4bpp.lz");
+    const u32 gMonFrontPic_Tandemaus[] = INCBIN_U32("graphics/pokemon/tandemaus/anim_front.4bpp.lz");
     const u32 gMonPalette_Tandemaus[] = INCBIN_U32("graphics/pokemon/tandemaus/normal.gbapal.lz");
     const u32 gMonBackPic_Tandemaus[] = INCBIN_U32("graphics/pokemon/tandemaus/back.4bpp.lz");
     const u32 gMonShinyPalette_Tandemaus[] = INCBIN_U32("graphics/pokemon/tandemaus/shiny.gbapal.lz");
