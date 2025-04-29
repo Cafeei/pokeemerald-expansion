@@ -9130,8 +9130,8 @@ static const union AnimCmd sAnim_Araquanid_1[] =
 PLACEHOLDER_ANIM_SINGLE_FRAME(Fomantis);
 static const union AnimCmd sAnim_Lurantis_1[] =
 {
-    ANIMCMD_FRAME(0, 1),
-    ANIMCMD_FRAME(1, 45),
+    ANIMCMD_FRAME(0, 5),
+    ANIMCMD_FRAME(1, 40),
     ANIMCMD_FRAME(0, 1),
     ANIMCMD_END,
 };
